@@ -1,0 +1,6 @@
+hi i have made a project creating my own notepad
+
+using custom tkinter
+
+all buttons working
+
